@@ -2,8 +2,7 @@
 </a>
 <h3 align="center">Software Engineer from Egypt</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudMehisen
-&theme=juicyfresh" alt="MahmoudMehisen
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudMehisen&theme=juicyfresh" alt="MahmoudMehisen
 " /></a> </p>
 
 
@@ -12,16 +11,14 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoudMehisen
-&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoudMehisen&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
     </a>
     </div>
 
   <div align="center">
      </br></br>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMehisen
-&show_icons=true&theme=dark&locale=en&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMehisen&show_icons=true&theme=dark&locale=en&layout=compact"/>
     </a>
 </div
 
