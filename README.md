@@ -22,7 +22,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (Spring/Django)
+- 🔭 &nbsp; I’m currently learning Backend (Spring Boot/RoR)
 - 🤔 &nbsp; Dedicated and result-oriented software engineer with a bachelor's degree in
 computer science, understanding and anticipating the agile infrastructure
 needs and creating an environment where development, quality assurance,
