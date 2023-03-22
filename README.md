@@ -22,11 +22,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (Spring Boot/RoR)
-- 🤔 &nbsp; Dedicated and result-oriented software engineer with a bachelor's degree in
-computer science, understanding and anticipating the agile infrastructure
-needs and creating an environment where development, quality assurance,
-staging, and production work can proceed efficiently and securely.
+- 🔭 &nbsp; I’m currently learning Backend (Spring Boot/ReactJs)
+- 🤔 &nbsp; Computer science graduate with amazing skills in programming, problem-solving, and software development.
+Highly analytical and eager to learn. I love working on hard problems that require creative solutions.
+Interested in back-end with all the optimizations, databases, and designs involved in its development.
 
 - 🎓 &nbsp; I’m fresh grad from ASU in Egypt
 - 💼 &nbsp; Backend developer and Moblie developer.
