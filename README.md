@@ -3,7 +3,7 @@
 <!-- Your title -->
 ## Hello, I'm Mahmoud Mehisen!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Backend-Developer+;Mobile-Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -22,13 +22,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (Spring Boot/ReactJs)
+- 🔭 &nbsp; I’m currently learning (Spring Boot/Angular)
 - 🤔 &nbsp; Computer science graduate with amazing skills in programming, problem-solving, and software development.
 Highly analytical and eager to learn. I love working on hard problems that require creative solutions.
 Interested in back-end with all the optimizations, databases, and designs involved in its development.
 
 - 🎓 &nbsp; I’m fresh grad from ASU in Egypt
-- 💼 &nbsp; Backend developer and Moblie developer.
+- 💼 &nbsp; Software Engineer.
 - ✍️ &nbsp; I enjoy reading good books or having a nice evening out with friends.
 - ☕ &nbsp; I like work that benefits other people as well as myself and isn't too systematic and believe that if you have a dream, wake up to do it.
 - How to reach me: __mahmoud.mehisen@gmail.com__
