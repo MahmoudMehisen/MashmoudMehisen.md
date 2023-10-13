@@ -23,11 +23,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning (Spring Boot/Angular)
-- 🤔 &nbsp; Computer science graduate with amazing skills in programming, problem-solving, and software development.
-Highly analytical and eager to learn. I love working on hard problems that require creative solutions.
-Interested in back-end with all the optimizations, databases, and designs involved in its development.
+- 🤔 &nbsp; I'm Mahmoud Mehisen, a detail-oriented Software Engineer with a Bachelor's Degree in Computer Science from Ain Shams University. I specialize in Java, Python, and JavaScript, crafting innovative and scalable solutions using technologies like Spring Boot, Django, Node.js, Angular, and React. Beyond coding, I bring versatility as a fast learner, logical thinker, and creative problem solver. With achievements including notable placements in programming championships, I actively contribute to the programming community. Fluent in English and Arabic, I thrive in dynamic environments..
 
-- 🎓 &nbsp; I’m fresh grad from ASU in Egypt
+- 🎓 &nbsp; I’m a grad from ASU in Egypt
 - 💼 &nbsp; Software Engineer.
 - ✍️ &nbsp; I enjoy reading good books or having a nice evening out with friends.
 - ☕ &nbsp; I like work that benefits other people as well as myself and isn't too systematic and believe that if you have a dream, wake up to do it.
