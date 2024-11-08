@@ -19,12 +19,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning (WebRTC / Enterprise Integration)
-- 🤔 &nbsp; Results-driven Software Engineer with a passion for designing and optimizing scalable solutions. Specializing in backend development, I have over two years of experience in Java, Spring Boot, Python, and JavaScript. Proven track record in full-stack web development, database management, and contributing to enterprise-level applications. Excited about leveraging my skills and experience to make meaningful contributions in the software engineering field.
-
-- 🎓 &nbsp; I’m a grad from ASU in Egypt
-- 💼 &nbsp; Software Engineer.
-- ✍️ &nbsp; I enjoy reading good books or having a nice evening out with friends.
+- 🤔 &nbsp;  Results-driven Software Engineer with a passion for building scalable solutions. With over two years of experience in backend development using Java, Spring Boot, Python, and JavaScript, I’ve worked on complex enterprise-level applications.
+- 🎓 &nbsp; I'm pursuing a Master's degree in Computer Science at Ain Shams University, expected to complete in 2027.
+- 💼 &nbsp; Senior Software Engineer.
+- ✍️ &nbsp; I enjoy reading books, spending time with friends, and creating meaningful, impactful software.
 - ☕ &nbsp; I like work that benefits other people as well as myself and isn't too systematic and believe that if you have a dream, wake up to do it.
 - How to reach me: __mahmoud.mehisen@gmail.com__
 &nbsp;
